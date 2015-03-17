@@ -1,2 +1,2 @@
-# prophet15
-Repository LinuxLexOS Prophet 15 
+# LinuxLexOS Prophet G3-launcher
+# ------------------------------ 
